@@ -1,0 +1,17 @@
+D:\Onlinemovie\Onlinemovie\MovieTicketLibrary\bin\Debug\netcoreapp2.1\MovieTicketLibrary.deps.json
+D:\Onlinemovie\Onlinemovie\MovieTicketLibrary\bin\Debug\netcoreapp2.1\MovieTicketLibrary.dll
+D:\Onlinemovie\Onlinemovie\MovieTicketLibrary\bin\Debug\netcoreapp2.1\MovieTicketLibrary.pdb
+D:\Onlinemovie\Onlinemovie\MovieTicketLibrary\obj\Debug\netcoreapp2.1\MovieTicketLibrary.csproj.CoreCompileInputs.cache
+D:\Onlinemovie\Onlinemovie\MovieTicketLibrary\obj\Debug\netcoreapp2.1\MovieTicketLibrary.AssemblyInfoInputs.cache
+D:\Onlinemovie\Onlinemovie\MovieTicketLibrary\obj\Debug\netcoreapp2.1\MovieTicketLibrary.AssemblyInfo.cs
+D:\Onlinemovie\Onlinemovie\MovieTicketLibrary\obj\Debug\netcoreapp2.1\MovieTicketLibrary.dll
+D:\Onlinemovie\Onlinemovie\MovieTicketLibrary\obj\Debug\netcoreapp2.1\MovieTicketLibrary.pdb
+C:\Users\Training\Downloads\Onlinemovie\Onlinemovie\MovieTicketLibrary\bin\Debug\netcoreapp2.1\MovieTicketLibrary.deps.json
+C:\Users\Training\Downloads\Onlinemovie\Onlinemovie\MovieTicketLibrary\bin\Debug\netcoreapp2.1\MovieTicketLibrary.dll
+C:\Users\Training\Downloads\Onlinemovie\Onlinemovie\MovieTicketLibrary\bin\Debug\netcoreapp2.1\MovieTicketLibrary.pdb
+C:\Users\Training\Downloads\Onlinemovie\Onlinemovie\MovieTicketLibrary\obj\Debug\netcoreapp2.1\MovieTicketLibrary.csprojAssemblyReference.cache
+C:\Users\Training\Downloads\Onlinemovie\Onlinemovie\MovieTicketLibrary\obj\Debug\netcoreapp2.1\MovieTicketLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Training\Downloads\Onlinemovie\Onlinemovie\MovieTicketLibrary\obj\Debug\netcoreapp2.1\MovieTicketLibrary.AssemblyInfoInputs.cache
+C:\Users\Training\Downloads\Onlinemovie\Onlinemovie\MovieTicketLibrary\obj\Debug\netcoreapp2.1\MovieTicketLibrary.AssemblyInfo.cs
+C:\Users\Training\Downloads\Onlinemovie\Onlinemovie\MovieTicketLibrary\obj\Debug\netcoreapp2.1\MovieTicketLibrary.dll
+C:\Users\Training\Downloads\Onlinemovie\Onlinemovie\MovieTicketLibrary\obj\Debug\netcoreapp2.1\MovieTicketLibrary.pdb
